@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nasim</h1>
 
-<h3 align="center">A passionate developer from DC</h3>
+<h3 align="center">A passionate developer from Maryland</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on a movie tracking app<br>👯 I’m looking to collaborate on anything and everything<br>🌱 I’m currently learning ReactJS and AI/ML<br>⚡ Fun fact: I am Harari Ethiopian 🇪🇹
